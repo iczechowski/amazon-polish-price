@@ -4,4 +4,4 @@ It uses http://www.google.com/finance/converter to convert USD into PLN.
 
 Hope you like it. ;-)
 
-(amazon-pln-price.png)
+!(amazon-pln-price.png)
